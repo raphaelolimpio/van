@@ -1,0 +1,5 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "jsonToDart.json.codecs": true,
+    "jdk.advanced.disable.nbjavac": false
+}
